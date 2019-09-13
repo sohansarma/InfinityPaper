@@ -1,0 +1,27 @@
+.ant-carousel .slick-slide {
+  /* background: #364d79; */
+  overflow: hidden;
+  color: #000;
+  align-items: center;
+  display: inherit;
+  position: inherit;
+}
+
+.container {
+  height: calc(100vh - 65px);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .container {
+    height: 100%;
+    margin: 24px;
+  }
+}
+
+.content_header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}

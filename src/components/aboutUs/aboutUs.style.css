@@ -1,0 +1,29 @@
+.about_us_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  /* overflow: auto;
+  height: calc(100vh - 64px); */
+}
+
+.about_us {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.about_us_header {
+  font-size: 24px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  margin: 12px;
+}
+
+.about_us_subHeader {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 32px 100px;
+}

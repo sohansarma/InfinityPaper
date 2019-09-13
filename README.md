@@ -1,2 +1,0 @@
-# InfinityPaper
-Created with CodeSandbox
